@@ -1,0 +1,56 @@
+@media (max-width: 1200px) {
+    .name {
+        font-size: 40px;
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+
+    .parah,
+    .contact,
+    .phone,
+    .number,
+    .email,
+    .mail,
+    .address,
+    .education,
+    .date,
+    .date1,
+    .date2,
+    .l,
+    .exp,
+    .secdate,
+    .k,
+    .secdate2,
+    .t,
+    .skill,
+    .f,
+    .certification,
+    .f2,
+    .hobby,
+    .art,
+    .myhobbies {
+        font-size: 20px;
+        margin-left: 20px;
+        margin-top: -10px;
+    }
+
+    .child1 {
+        width: 300px;
+        height: 300px;
+        margin-left: 40px;
+        margin-top: 20px;
+        box-shadow: 3px 3px 6px black;
+    }
+
+    .parent {
+        margin-top: -60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .name {
+        font-size: 30px;
+        margin-top: 50px;
+        margin-left: 30px;
+    }
+}
